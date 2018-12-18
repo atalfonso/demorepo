@@ -6,4 +6,4 @@ edit number 1
 
 edit number 2
 
-another conflict
+this will cause conflict
